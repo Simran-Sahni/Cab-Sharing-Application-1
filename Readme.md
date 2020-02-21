@@ -8,8 +8,7 @@ Object Oriented Programming Project (CS F213)<br>
 ## Team:
 * [Radhesh Sarma](https://github.com/Radhesh-Sarma) &nbsp;&nbsp;&nbsp; `(2017B4A70886H)`
 * [Amogh Saxena](https://github.com/amogh-saxena) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  `(2017B4A71731H)`
-* [Simran Sahni](https://github.com/simrani16)&nbsp;&nbsp; `(2017B5A70856H)`
-* [Jalaj Bansal](https://github.com/jbninj) &nbsp;&nbsp;`(2017B3A71610H)`
+* [Simran Sahni](https://github.com/Simran-Sahni)&nbsp;&nbsp; `(2017B5A70856H)`
 
 ## Technologies Used:
 * Java
